@@ -1,1 +1,7 @@
 /.encore
+encore.gen.go
+encore.gen.cue
+
+
+*.env
+microservice-secrets.json
